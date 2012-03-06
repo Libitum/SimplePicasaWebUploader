@@ -1,0 +1,11 @@
+Simple PicasaWeb Uploader is a simple client for Users to upload photos to PicasaWeb. It can resize the photos to 2048px (the free limit from Google) automaticly. It supports for a single photo or a photo directory.
+
+Attention:
+    1. PicasaWeb Uploader needs gdata-python-client which you can get from http://code.google.com/p/gdata-python-client/downloads/list
+    2. PicasaWeb UpLoader needs PIL (Python Image Library) which you can get from http://www.pythonware.com/products/pil/
+    3. PicasaWeb UpLoader needs pyexiv2 (Python Image Library) which you can get from http://tilloy.net/dev/pyexiv2/. GPLv2 License...Oh my ladygaga...
+
+File List:
+    1. spwu.py - The main class of PicasaWeb Uploader
+    2. spwu_cl.py - The command line interface of PicasaWeb Uploader
+    3. spwu_gui.py - The GUI interface of PicasaWeb Uploader
